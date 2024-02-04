@@ -1,0 +1,922 @@
+[
+    {
+        "istilah": "abdomen",
+        "arti": "abdomen adalah area tubuh antara bagian bawah tulang rusuk dan bagian atas paha."
+    },
+    {
+        "istilah": "akut abdomen",
+        "arti": "abdomen akut adalah istilah medis yang mengacu pada gejala nyeri perut seperti radang usus buntu (apendisitis), radang kantong empedu (kolesistitis), perfpsi usu atau limpah pecah."
+    },
+    {
+        "istilah": "abdominal",
+        "arti": "abdominal adalah berhubungan dengan perut atau abdomen, yang merupakan bagian tubuh antara dada dan pinggul yang berisi pankreas, lambung, usus, hati, kandung empedu, dan organ lainnya."
+    },
+    {
+        "istilah": "abdominoplasti",
+        "arti": "abdominoplasti adalah sebuah prosedur pembedahan yang dilakukan untuk meratakan perut"
+    },
+    {
+        "istilah": "AIDS",
+        "arti": "Virus ini menyerang sistem kekebalan tubuh dan melemahkan kemampuan tubuh\nuntuk melawan infeksi dan penyakit."
+    },
+    {
+        "istilah": "acne vulgaris",
+        "arti": "acne vulgaris atau jerawat adalah sebuah kondisi kulit yang ditandai dengan sumbatan dan peradangan yang melibatkan folikel rambut dan kelenjar sebasea"
+    },
+    {
+        "istilah": "adenin",
+        "arti": "dalam genetika, a singkatan adenin, salah satu anggota dari at (adenin-timin) pasangan basa dalam dna. Pasangan basa dan lainnya di gc (guanin-sitosin)."
+    },
+    {
+        "istilah": "adenohipofisis",
+        "arti": "adenohipofisis adalah kelenjar hipofisis anterior"
+    },
+    {
+        "istilah": "adenosin",
+        "arti": "adenosin adalah bahan kimia alami tubuh"
+    },
+    {
+        "istilah": "adenopati",
+        "arti": "adenopati adalah setiap penyakit yang melibatkan atau menyebabkan pembesaran kelenjar getah bening."
+    },
+    {
+        "istilah": "bariatrik",
+        "arti": "bidang kedokteran yang menawarkan perawatan untuk menurunkan kelebihan berat badan dengan prosedur pembedahan"
+    },
+    {
+        "istilah": "barium telan",
+        "arti": "barium telan adalah penggunaan larutan barium sulfat yang diberikan secara oral untuk memungkinkan pe- meriksaan rontgen pada saluran usus bagian atas"
+    },
+    {
+        "istilah": "Batang Otak",
+        "arti": "batang otak adalah wilayah otak yang menghubungkan otak dengan sumsum tulang belakang"
+    },
+    {
+        "istilah": "babyhood",
+        "arti": "masa bayi"
+    },
+    {
+        "istilah": "badan barr",
+        "arti": "massa krimatiin seks pada membran nukleus"
+    },
+    {
+        "istilah": "badan pankreas",
+        "arti": "artinya badan pertengahan pankreas"
+    },
+    {
+        "istilah": "baduta",
+        "arti": "istilah yang digunakan untuk anak berusia 0-23 bulan"
+    },
+    {
+        "istilah": "balsem",
+        "arti": "salah satu dari zat bergetah aromatik yang di gunakan untuk menyembuhkan dan menenangkan."
+    },
+    {
+        "istilah": "band",
+        "arti": "pengikat, penjepit berupa cincin logam yang disemen pada gigi dan penyakit elastis pada lambung yang ditempatkan dalam bedah gastric banding."
+    },
+    {
+        "istilah": "basilfobia",
+        "arti": "adalah ketakutan yang abnormal dan terus menerus terhadap basil (bakteri)"
+    },
+    {
+        "istilah": "cacar",
+        "arti": "adalah penyakit sangat menular yang sering fatal di sebabkan oleh poxvirus"
+    },
+    {
+        "istilah": "cacing tambang",
+        "arti": "adalah penyakit usus yang disebabkan oleh dua spesies nemotoda, necator americanus duodenale"
+    },
+    {
+        "istilah": "caesar",
+        "arti": "adalah melahirkan bayi melalui sayatan bedah di perut."
+    },
+    {
+        "istilah": "calceneus",
+        "arti": "adalah istilah medis untuk tulang tumit"
+    },
+    {
+        "istilah": "carpal",
+        "arti": "adalah istilah medis untuk tulang pergelangan tangan."
+    },
+    {
+        "istilah": "centanarian",
+        "arti": "seorang yang berusia 100 tahun atau lebih"
+    },
+    {
+        "istilah": "cervidil",
+        "arti": "adalah obat yang digunakan untuk mematangkan serviks sebelum induksi"
+    },
+    {
+        "istilah": "chelioplasty",
+        "arti": "adalah oprasi untuk mengoreksi bibir sumbing."
+    },
+    {
+        "istilah": "citalopram",
+        "arti": "adalah obat anti depresan jenis selective serotonin reuptake inhibitor (SSRI)"
+    },
+    {
+        "istilah": "clasp",
+        "arti": "adalah perangkat yang mengcengkeram gigi tiruan parsial (jembatan gigi) oada gigi stasioner."
+    },
+    {
+        "istilah": "defisiensi",
+        "arti": "kurangnya pasokan yang cukup dari enzim laktase. Orang dengan defisiensi laktase mengalami kesulitan mencerna susu dan produk susu."
+    },
+    {
+        "istilah": "defisiensi sfingter intrinsik",
+        "arti": "melemahnya otot sfingter uretra. Kelemahan sfingter ini menyebabkannya tidak berfungsi secara normal, bagaimana pun posisi leher kandung kemih atau uretra. kondisi ini adalah penyebab umum dari inkontinensia urin stres."
+    },
+    {
+        "istilah": "defisiensi warna",
+        "arti": "adalah ketidakmampuan untuk membedakan beberapa warna dan nuansa, terjadi ketika sel-sel kerucut yang sensitif warna di retina tidak mengambil atau mengirim sinyal warna secara normal ke otak."
+    },
+    {
+        "istilah": "deformitas buttonniere",
+        "arti": "pecah slip pusat dari tendon ekstensor falang tengah yang disebabkan oleh fleksi cepat dan kuat pada sendi interfalangeal proksimal; ditandai dengan fleksi sendi interfalangeal proksimal dan hiperekstensi pada sendi interfalangeal distal"
+    },
+    {
+        "istilah": "degeneratif",
+        "arti": "kerusakan   progresif   dan sering ireversibel"
+    },
+    {
+        "istilah": "defibrilator",
+        "arti": "adalah sebuah perangkat elektronik yang digunakan untuk membuat denyut jantung normal"
+    },
+    {
+        "istilah": "dehidrasi",
+        "arti": "berarti tubuh anda tidak memiliki cairan sebanyak yang seharusnya. Dehidrasi dapat disebabkan oleh kehilangan cairan terlalu banyak, tidak cukup minum, atau keduanya"
+    },
+    {
+        "istilah": "dehidrogenasi",
+        "arti": "proses kebalikan dari hidrogenasi, yaitu proses yang mengubah lemak tak jenuh menjadi lemak jenuh"
+    },
+    {
+        "istilah": "demam rematik",
+        "arti": "penyakit autoimun yang mungkin terjadi setelah infeksi tenggorokan streptokokus grup a."
+    },
+    {
+        "istilah": "demografi",
+        "arti": "karakteristik populasi (misalnya, jenis kelamin, ras, umur)."
+    },
+    {
+        "istilah": "Enzim bimolekul",
+        "arti": "berupa protein yang berfungsi sebagai katalis dalam suatu reaksi kimia organic"
+    },
+    {
+        "istilah": "Echocardiografi",
+        "arti": "pemeriksaan jantung dengan teknik gelombang ultra- sonik"
+    },
+    {
+        "istilah": "enzim hati",
+        "arti": "protein yang terletak di hati yang mempercepat laju reaksi kimia untuk membuat mereka layak"
+    },
+    {
+        "istilah": "endemi",
+        "arti": "penyakit infeksi yang terus menerus"
+    },
+    {
+        "istilah": "eikosanoid",
+        "arti": "utusan bahan kimia yang berasal dari asam lemak tak jenuh."
+    },
+    {
+        "istilah": "ebner",
+        "arti": "kelenjar yang ditemukan di sekitar papila sirkumvalata pada permukaan lidah"
+    },
+    {
+        "istilah": "epilepsi",
+        "arti": "gangguan saraf yang ditandai dengan kejang mendadak."
+    },
+    {
+        "istilah": "efek sinergis",
+        "arti": "efek dari beberapa obat yang diambil bersama-sama lebih besar daripada jumlah efek masing-masing secara individual"
+    },
+    {
+        "istilah": "efikasi",
+        "arti": "efektifitas, kemampuan untuk mencapai hasil yang diinginkan"
+    },
+    {
+        "istilah": "efek aditif",
+        "arti": "efek gabungan dari beberapa obat"
+    },
+    {
+        "istilah": "Felon",
+        "arti": "suatu abses ruang pulpa pada falang distal"
+    },
+    {
+        "istilah": "femur",
+        "arti": "bagian tubuh terbesar dan tulang terkuat pada tubuh manusia"
+    },
+    {
+        "istilah": "fenilanin",
+        "arti": "suatu asam amino penting dan banyak terdapat pada makanan"
+    },
+    {
+        "istilah": "farmasi",
+        "arti": "ilmu yang mempelajari cara membuat, mencampur, meracik, memformulasi, mengidentifikasi, mengombinasi, menganalisis, serta menstandarkan obat."
+    },
+    {
+        "istilah": "Fagosit",
+        "arti": "pengolongan dari sel darah putih yang berperan dalam sistem kekebalan"
+    },
+    {
+        "istilah": "fagositosis",
+        "arti": "proses yang digunakan oleh sel untuk menelan dan kemudian mencerna partikel nutrisi atau bakteri"
+    },
+    {
+        "istilah": "falang",
+        "arti": "istilah medis yang digunakan untuk menggambarkan jari tangan dan kaki"
+    },
+    {
+        "istilah": "feminin",
+        "arti": "sebuah kata sifat, adjektif yang berarti �kewanitaan� atau menunjukkan sifat perempuan"
+    },
+    {
+        "istilah": "Ferritin",
+        "arti": "sebuah protein yang terdapat di dalam sel pada hamper seluruh makhluk hidup."
+    },
+    {
+        "istilah": "femur",
+        "arti": "denyut abnormal yang terjadi di jantung"
+    },
+    {
+        "istilah": "Gagap",
+        "arti": "suatu gangguan bicara di mana aliran bicara terganggu"
+    },
+    {
+        "istilah": "ganas",
+        "arti": "suatu kondisi yang parah, berbahaya, atau resisten terhadap pengobatan"
+    },
+    {
+        "istilah": "gangguan bicara",
+        "arti": "penggunaan yang buruk atau abnormal dari sistem vocal"
+    },
+    {
+        "istilah": "gangguan bipolar",
+        "arti": "gangguan mental yang menyerang kondisi psikis sese- orang yang ditandai dengan perubahan suasana hati yang sangat ekstrem berupa mania dan depresi"
+    },
+    {
+        "istilah": "gangguan kepribadian",
+        "arti": "kondisi yang menyebabkan penderitanya memiliki pola pikir dan perilaku yang tidak sehat dan berbeda dari orang normal"
+    },
+    {
+        "istilah": "gangguan kecemasan",
+        "arti": "rasa cemas berlebihan yang bisa memengaruhi aktivitas sehari-hari seseorang"
+    },
+    {
+        "istilah": "gangguan saraf",
+        "arti": "penyakit yang menyerang sistem saraf yaitu otak atau beberapa sel saraf pada jaringan saraf"
+    },
+    {
+        "istilah": "gangguan mental",
+        "arti": "pola psikologis atau perilaku yang pada umumnya terkait dengan stres atau kelainan mental yang tidak dianggap sebagai bagian dari perkembangan normal manusia"
+    },
+    {
+        "istilah": "gamet",
+        "arti": "sel haploid (tidak berpasangan) khusus untuk fertilisasi"
+    },
+    {
+        "istilah": "ganas",
+        "arti": "suatu kondisi yang parah, berbahaya, atau resisten terhadap pengobatan"
+    },
+    {
+        "istilah": "halotan",
+        "arti": "obat anestesi inhalasi berbentuk cairan bening tak berwarna yang mudah menguap dan berbau harum"
+    },
+    {
+        "istilah": "halusinasi",
+        "arti": "terjadinya persepsi dalam kondisi sadar tanpa adanya rangsang nyata terhadap indera"
+    },
+    {
+        "istilah": "halusinogen",
+        "arti": "jenis napza yang dapat menimbulkan efek halusinasi yang bersifat mengubah perasaan"
+    },
+    {
+        "istilah": "hammertoe",
+        "arti": "kondisi yang ditandai dengan deformitas sendi yang paling dekat dengan ibu jari kaki"
+    },
+    {
+        "istilah": "handikap",
+        "arti": "hambatan dalam individu yang diakibatkan oleh disabilitas dan impairmen"
+    },
+    {
+        "istilah": "hemoroid",
+        "arti": "pembengkakan yang berisi pembuluh darah yang membesar"
+    },
+    {
+        "istilah": "hemokromatosis",
+        "arti": "penyakit genetik yang menyebabkan tubuh menyerap terlalu banyak zat besi dari makanan yang kita konsumsi"
+    },
+    {
+        "istilah": "hemolysis",
+        "arti": "kerusakan atau penghancuran sel darah merah karena gangguan integritas membran sel darah merah yang menyebabkan pelepasan hemoglobin"
+    },
+    {
+        "istilah": "hemopoietik",
+        "arti": "berkenaan atau terkait dengan pembentukan sel darah"
+    },
+    {
+        "istilah": "hemoptisis",
+        "arti": "keadaan ketika seseorang mengalami batuk yang disertai darah."
+    },
+    {
+        "istilah": "indeks terapetik",
+        "arti": "ukuran selektifitas obat yang merupakan ukuran faktor keamanan obat"
+    },
+    {
+        "istilah": "indera",
+        "arti": "alat penghubung kontak antara jiwa dalam wujud kes- adaran rohani diri dengan material lingkungan"
+    },
+    {
+        "istilah": "individuasi",
+        "arti": "kebutuhan untuk menjadi beberapa dengan orang lain dalam beberapa ha"
+    },
+    {
+        "istilah": "induksi ovulasi",
+        "arti": "stimulasi ovulasi dari pasien yang an-ovulatori atau ti- dak terjadi ovulasi"
+    },
+    {
+        "istilah": "infeksi paru-paru",
+        "arti": "penyakit peradangan pada paru-paru yang disebabkan oleh mikroorganisme bakteri, jamur, parasit atau virus"
+    },
+    {
+        "istilah": "infeksi",
+        "arti": "proses invasi dan multiplikasi berbagai mikroorganisme ke dalam tubuh"
+    },
+    {
+        "istilah": "infeksi laten",
+        "arti": "infeksi yang tidak aktif di dalam tubuh untuk beberapa bulan atau tahun tetapi dapat muncul kembali"
+    },
+    {
+        "istilah": "infeksi aktif",
+        "arti": "dimana mikroorganisme penyakit secara aktif merep- likasi dan menginfeksi sel-sel baru"
+    },
+    {
+        "istilah": "inhalation",
+        "arti": "menghirup udara atau uap lain ke dalam paru-paru"
+    },
+    {
+        "istilah": "injeksi",
+        "arti": "memasukkan larutan obat atau larutan-larutan lain ke dalam tubuh melalui semprit"
+    },
+    {
+        "istilah": "jarum suntik",
+        "arti": "jarum yang secara umum digunakan dengan alat suntik untuk menyuntikkan suatu zat kedalam tubuh"
+    },
+    {
+        "istilah": "jalur fekal-oral",
+        "arti": "rute penularan penyakit dari feses ke mulut"
+    },
+    {
+        "istilah": "jalan lahir",
+        "arti": "bagian yang mencakup rahim dan vagina yang dilalui bayi saat lahir"
+    },
+    {
+        "istilah": "janin melintang",
+        "arti": "posisi janin horisontal di dalam rahim dengan sumbu melintang terhadap sumbu tubuh ibu, dengan kepala di satu sisi dan bokong di sisi yang lain"
+    },
+    {
+        "istilah": "jantung",
+        "arti": "sebuah rongga-rongga organ berotot yang memompa darah lewat pembuluh darah oleh kontraksi berirama yang berulang"
+    },
+    {
+        "istilah": "jantung berdebar",
+        "arti": "sensasi yang dirasakan saat jantung berdentum dengan kuat,cepat, atau tidak beraturan"
+    },
+    {
+        "istilah": "jalur auditori",
+        "arti": "saraf dan koneksi dalam sistem saraf pusat, yang dimulai pada sel-sel rambut organ corti, berlanjut kesepanjang kedelapan saraf pendengaran dan berakhir di korteks auditori"
+    },
+    {
+        "istilah": "jampersal",
+        "arti": "jaminan pembiayaan perlayan persalinan"
+    },
+    {
+        "istilah": "jaringan parut",
+        "arti": "area dari jaringan fibrosa yang menggantikan kulit yang luka setelah cedera"
+    },
+    {
+        "istilah": "jaringan otot",
+        "arti": "jaringan yang terdiri atas kumpulan sel otot atau serat otot dan miofibril yang halus untuk membantu proses pergerakan tubuh"
+    },
+    {
+        "istilah": "kacamata",
+        "arti": "lensa tipis untuk mata guna menormalkan dan mempertajam penglihatan"
+    },
+    {
+        "istilah": "kacamata matahari",
+        "arti": "kacamata untuk melindungi mata dari sinar matahari"
+    },
+    {
+        "istilah": "kacamata obat",
+        "arti": "alat bantu penglingatan dan melindungi mata yang terdiri dari lensa, frame"
+    },
+    {
+        "istilah": "kanker",
+        "arti": "penyakit akibat pertumbuhan tidak normal dari sel-sel jaringan tubuh yang berusaha menjadi sel kanker"
+    },
+    {
+        "istilah": "kapas",
+        "arti": "serat halus yang menyelubungi biji beberapa jenis gossypium, tumbuhan semak yang berasal dari daerah tropika dan subtropika"
+    },
+    {
+        "istilah": "kencing manis",
+        "arti": "gangguan metabolisme tubuh yang sifatnya kronis"
+    },
+    {
+        "istilah": "klinik",
+        "arti": "suatu fasilitas kesehatan publik kecil yang didirikan untuk memberikan perawatan kepada pasien luar"
+    },
+    {
+        "istilah": "kolera",
+        "arti": "infeksi bakteri yang dapat menyebabkanpenderitanya dehidrasi akibat diare parah"
+    },
+    {
+        "istilah": "kalitonin",
+        "arti": "hormon protein yang disekresikan oleh sel-sel di kelenjar tiroid. hormon ini menghambat degradasi tulang dan merangsang penyerapan kalsium dan fosfat oleh tulang"
+    },
+    {
+        "istilah": "kalsium sulfat",
+        "arti": "garam yang terdiri dari kristal putih yang dapat larut dalam air"
+    },
+    {
+        "istilah": "laju endap darah",
+        "arti": "sebuah pengukuran seberapa cepat sel-sel darah merah jatuh ke dasar sebuah tabung uji"
+    },
+    {
+        "istilah": "laksatif",
+        "arti": "agenyang mempromosikan evakuasi usus (mendorong buang air besar)."
+    },
+    {
+        "istilah": "laktosa",
+        "arti": "jenis gula yang ditemukan dalam susu dan produk susu (keju, mentega, dll). gula ini dianggap sebagai pemanis nutritif karena memiliki kalori."
+    },
+    {
+        "istilah": "lapisan germinal",
+        "arti": "tingkat yang paling primitif dari organisasi jaringan."
+    },
+    {
+        "istilah": "lapisan nutfah ektodermal",
+        "arti": "lapisandalam embrio yang akan berkembang menjadi struktur pada tahap janin. struktur tersebut termasuk kulit, gigi dan kelenjar mulut, sistem saraf dan kelenjar pituitari. juga disebut ektoderma."
+    },
+    {
+        "istilah": "larutan dialisat",
+        "arti": "suatu cairan pembersih yang digunakan dalam dua bentuk utama dialisis: hemodialisis dan dialisis peritoneal"
+    },
+    {
+        "istilah": "larvisida",
+        "arti": "agenkimia atau bakteri alami yang dapat digunakan untuk membunuh larva serangga pengganggu, misalnya nyamuk."
+    },
+    {
+        "istilah": "laser argon",
+        "arti": "perangkat yang digunakan untuk mengobati glaukoma (biasanya sudut terbuka) dan retinopati diabetik dengan menggunakan sinar termal."
+    },
+    {
+        "istilah": "laserasi",
+        "arti": "luka yang disebabkan oleh robekan, bukan bentuk yang teratur seperti sayatan bedah."
+    },
+    {
+        "istilah": "latihan aerobik",
+        "arti": "jenis latihan (misalnya, berlari, berenang) yang mem- buat jantung dan paru-paru bekerja lebih keras untuk memasok otot dengan oksigen"
+    },
+    {
+        "istilah": "menstruasi migren",
+        "arti": "migren yang terjadi antara satu hari sebelum dan empat hari setelah onset menstruasi, diduga akibat penarikan estrogen"
+    },
+    {
+        "istilah": "metformin",
+        "arti": "obat oral untuk meningkatkan penggunaan insulin oleh tubuh"
+    },
+    {
+        "istilah": "metroragia",
+        "arti": "pendarahan rahim"
+    },
+    {
+        "istilah": "Myeloma",
+        "arti": "tumor pada sumsum tulang"
+    },
+    {
+        "istilah": "Mielinasi",
+        "arti": "penutupan aksn atau serabut panjang sarah oleh myelin, yang merupakan isolator lemak migraine sakit kepala yang berlangsung 4 � 27 jam."
+    },
+    {
+        "istilah": "mikroskop",
+        "arti": "alat optic yang menambah kekuatan mata untuk melihat benda- benda kecil"
+    },
+    {
+        "istilah": "mikrosefali",
+        "arti": "kondisi ketika kepala bayi secara signifikan lebih kecil dari yang diharapkan, biasanya disebabkan karena perkembangan otak yang tidak normal."
+    },
+    {
+        "istilah": "milia",
+        "arti": "bintik kecil, putih dank eras yang terlihat seperti jerawat dihidung bayi yang baru lahir."
+    },
+    {
+        "istilah": "nanah",
+        "arti": "cairan berwarna kuning keputihan atau kuning kehijauan yang disebabkan bakteri."
+    },
+    {
+        "istilah": "nambi",
+        "arti": "penyakit puru"
+    },
+    {
+        "istilah": "nanar",
+        "arti": "pusing"
+    },
+    {
+        "istilah": "narkoleps",
+        "arti": "penyakit kantuk kronis"
+    },
+    {
+        "istilah": "narkose",
+        "arti": "obat pembius"
+    },
+    {
+        "istilah": "narcosis",
+        "arti": "keadaan terbius"
+    },
+    {
+        "istilah": "natalitas",
+        "arti": "laju kelahiran"
+    },
+    {
+        "istilah": "natrium",
+        "arti": "sebuah mineral yang ditemukan dalam tubuh dan dalam banyak makanan."
+    },
+    {
+        "istilah": "nausea",
+        "arti": "rasa mau muntah"
+    },
+    {
+        "istilah": "nefrosis",
+        "arti": "nefrosis penyakit ginjal."
+    },
+    {
+        "istilah": "nefrotomi",
+        "arti": "pemotongan/pembedahan ginjal."
+    },
+    {
+        "istilah": "negative",
+        "arti": "kesalahan dimana hasil tes menunjukkan negative."
+    },
+    {
+        "istilah": "obat",
+        "arti": "bahan/paduan bahan-bahan untuk digunakan dalam menetapkan diagnosis, mencegah, mengurangi, meng- hilangkan, menyembuhkan penyakit, atau luka."
+    },
+    {
+        "istilah": "obat aborsi",
+        "arti": "proses menggugurkan kandungan atau dalam dunia kedokteran"
+    },
+    {
+        "istilah": "Obat keras",
+        "arti": "obat beracun yang mempunyai khasiat mengobati, menguatkan, mendefinisikan dan lain � lain tubuh manusia."
+    },
+    {
+        "istilah": "obat penenang",
+        "arti": "untuk menenangkan (meredakan ketegangan) jiwa dsb."
+    },
+    {
+        "istilah": "obat perangsang",
+        "arti": "obat untuk merangsang nafsu seks dsb."
+    },
+    {
+        "istilah": "Obat penawar racun",
+        "arti": "penawar terhadap zat yang beracun terhadap tubuh."
+    },
+    {
+        "istilah": "Obsesi",
+        "arti": "pemikiran, dorongan, atau gambaran berulang dan terus menerus yang terasa menganggu, menekan dan diakui sebagai sesuatu yang berlebihan dan tidak masuk akal."
+    },
+    {
+        "istilah": "Observasi",
+        "arti": "pemantauan ketat kondisi pasien tanpa pengobatan sampai gejalanya mucul atau berubah."
+    },
+    {
+        "istilah": "obstetrika",
+        "arti": "ilmu kebidanan"
+    },
+    {
+        "istilah": "oksida",
+        "arti": "senyawa kimia yang sedikitnya mengandung sebuah atom oksigen serta sedikitnya sebuah unsur lain"
+    },
+    {
+        "istilah": "pangan",
+        "arti": "segala sesuatu yang berasal dari sumber hayati dan air, baik yang diolah maupun yang tidak diolah, yang diperuntukkan sebagai makanan atau minuman bagi konsumsi manusia."
+    },
+    {
+        "istilah": "Panik",
+        "arti": "ketakukan atau kecemasan yang ekstrim dan tidak masuk akal"
+    },
+    {
+        "istilah": "pankreas",
+        "arti": "organ kelenjar yang terletak dipeut"
+    },
+    {
+        "istilah": "paparan",
+        "arti": "eksposur hadir dalam kontak dengan mikrorganisme penyebab penyakit;dapat menyebabkan infeksi."
+    },
+    {
+        "istilah": "paparan akut",
+        "arti": "kontak dengan zat yang terjadi selama waktu yang lama (lebih dari 24 jam)."
+    },
+    {
+        "istilah": "paramedis",
+        "arti": "seseorang yang dilatih untuk memberikan pengobatan darurat atau membantu orang lain yang professional di bidang kesehatan (dokter)"
+    },
+    {
+        "istilah": "pica",
+        "arti": "istilah yang mengacu pada keinginan memakan zat yang bukan makanan."
+    },
+    {
+        "istilah": "pigmen",
+        "arti": "sebuah zat yang member warna pada jaringan."
+    },
+    {
+        "istilah": "Pilek",
+        "arti": "penyakit infeksi saluran pernafasan atas yang paling sering terjadi di seluruh dunia"
+    },
+    {
+        "istilah": "pinna",
+        "arti": "istilah yang digunakan untuk menggambarkan bagian luar telinga kita"
+    },
+    {
+        "istilah": "Qi gong",
+        "arti": "bagian dari pengobatan tradisional cina"
+    },
+    {
+        "istilah": "quercetin",
+        "arti": "fitokimia yang merupakan bagian dari zat warna yang ditemukan pada kulit apel dan bawang merah."
+    },
+    {
+        "istilah": "Quantum sufficiat",
+        "arti": "jumlah secukupnya."
+    },
+    {
+        "istilah": "quaque 4 hora",
+        "arti": "setiap 4 jam."
+    },
+    {
+        "istilah": "quaque 6 hora",
+        "arti": "setiap 6 jam."
+    },
+    {
+        "istilah": "quaque die",
+        "arti": "setiap hari."
+    },
+    {
+        "istilah": "quarter die sumendus",
+        "arti": "4X sehari. quarter in die 5X sehari."
+    },
+    {
+        "istilah": "Raba",
+        "arti": "rasa dimana kita menentukan ukuran, bentuk, dan tekstur objek, menggunakan reseptor di kulit."
+    },
+    {
+        "istilah": "Rabies",
+        "arti": "penyakit mematikan yang disebabkan oleh virus yang menyerang system saraf pusat."
+    },
+    {
+        "istilah": "rabun jauh",
+        "arti": "kesalahan refraksi mata di mana bola mata terlalu mencembung dan fokus cahaya berada di depan retina mata."
+    },
+    {
+        "istilah": "Rachitic",
+        "arti": "pelunakan tulang pada anak-anak karena kekurangan atau gangguan metabolisme vitamin D, magnesium, fosfor, atau kalsium, berpotensi menyebabkan patah tulang dan kelainan bentuk."
+    },
+    {
+        "istilah": "Racun",
+        "arti": "zat padat, cair, atau gas yang dapat mengganggu proses kehidupan sel suatu organisme."
+    },
+    {
+        "istilah": "Radang",
+        "arti": "sakit tenggorokan yang disebabkan oleh radang bagian belakang tenggorokan, atau yang dalam dunia medis disebut dengan faring"
+    },
+    {
+        "istilah": "radang amandel",
+        "arti": "infeksi pada amandel yang kadang mengakibatkan sakit tenggorokan dan demam."
+    },
+    {
+        "istilah": "radang buah pinggang",
+        "arti": "terdapat kerusakan pada glomeruli yaitu sekumpulan kapilari yang berfungsi sebagai penapisan"
+    },
+    {
+        "istilah": "radang di bawah kulit",
+        "arti": "infeksi pada bagian jaringan bawah permukaan kulit dan lapisan lemak pun juga disebut dengan selulitis."
+    },
+    {
+        "istilah": "peradangan bursa",
+        "arti": "Cedera atau peradangan dari bursa di sekitar bahu penyebab sendi bahu bursitis."
+    },
+    {
+        "istilah": "sabin vaccine",
+        "arti": "vaksin polio yang mengandung 3 serotipe virus polio dalam keadaan hidup yang dilemahkan dan diberikan secara oral."
+    },
+    {
+        "istilah": "sac",
+        "arti": "struktur berisi cairan yang berkembang pada awal kehamilan, yang mungkin berlokasi di dalam atau di luar rahim."
+    },
+    {
+        "istilah": "saccades",
+        "arti": "gerakan mata ketika bergerak dari satu fiXasi ke fiXasi berikutnya."
+    },
+    {
+        "istilah": "saccharide",
+        "arti": "adalah anion dan garam dari sakarin pemanis (sodium saccharide, denatonium saccharide). sakarin kadang- kadang digunakan untuk menggantikan gula."
+    },
+    {
+        "istilah": "saccule (sacculus)",
+        "arti": "sebuah kantung kecil, khusus, sacculus telinga."
+    },
+    {
+        "istilah": "sacralization",
+        "arti": "adalah anomali kongenital di mana proses transversus dari tulang belakang lumbar terakhir menyatu ke sakrum atau ilium. Fusi dapat terjadi pada satu sisi atau keduanya. Telah diduga itu mungkin menjadi penyebab sakit punggung."
+    },
+    {
+        "istilah": "safranin",
+        "arti": "noda biologis yang digunakan dalam histologi dan sitologi."
+    },
+    {
+        "istilah": "sagittal",
+        "arti": "bidang yang membagi tubuh menjadi 2 bagian dari titik tertentu. bidang ini sejajar dengan bidang median."
+    },
+    {
+        "istilah": "shock",
+        "arti": "penyakit yang disebabkan oleh virus varicella-zoster. setelah seseorang menderita cacar air, virus varicella- zoster akan menetap dalam kondisi dorman (tidak aktif atau laten) pada satu atau lebih ganglia (pusat saraf) posterior"
+    },
+    {
+        "istilah": "tablet",
+        "arti": "bentuk sediaan padat yang terdiri dari satu atau lebih bahan obat yang dibuat dengan pemadatan, kedua permukaannya rata atau cembung"
+    },
+    {
+        "istilah": "tabir surya",
+        "arti": "tabir surya dapat mengurangi resiko kanker kulit, termasuk melanoma"
+    },
+    {
+        "istilah": "tacrolimus",
+        "arti": "obat yang umumnya digunakan bersama obat lain untuk mencegah penolakan transplantasi ginjal, jantung, atau hati."
+    },
+    {
+        "istilah": "tactile",
+        "arti": "sebuah perangkat yang mengukur informasi yang timbul dari interaksi fisik dengan lingkungannya."
+    },
+    {
+        "istilah": "taeniafuge",
+        "arti": "Sebuah obat untuk mengusir cacing pita"
+    },
+    {
+        "istilah": "taeniasis",
+        "arti": "penyakit akibat parasit berupa cacing pita yang tergolong dalam genus Taenia yang dapat menular dari hewan ke manusia, maupun sebaliknya"
+    },
+    {
+        "istilah": "takifilaksis",
+        "arti": "penurunan respon terhadap aplikasi berulang dari agonis, biasanya terjadi selama kurun waktu yang relative singkat (detik sampai jam)."
+    },
+    {
+        "istilah": "talus",
+        "arti": "dipakai untuk menyatakan jaringan yang tidak berdife- rensiasi (masih belum bisa dibedakan bagian-bagiannya) yang membentuk tubuh sekelompok vegetasi tingkat rendah."
+    },
+    {
+        "istilah": "tamoxifen",
+        "arti": "salah satu obat yang bisa digunakan dokter untuk menangani kanker payudara dan salah satu obat untuk terapi hormon."
+    },
+    {
+        "istilah": "tampon",
+        "arti": "massa silinder yang berfungsi sebagai alat serap, umumnya digunakan sebagai produk kesehatan wanita"
+    },
+    {
+        "istilah": "ulcer",
+        "arti": "luka yang muncul pada dinding lambung akibat terkikisnya lapisan dinding lambung. Luka ini juga berpotensi muncul pada dinding bagian pertama usus kecil (duodenum) serta kerongkongan (esofagus)."
+    },
+    {
+        "istilah": "ulcerative colitis",
+        "arti": "penyakit peradangan usus yang menyebabkan per- dangan kronis pada saluran pencernaan. Penyakit ini ditandai dengan sakit perut dan diare."
+    },
+    {
+        "istilah": "ulna",
+        "arti": "adalah sebuah tulang pipa yang mempunyai sebuah batang dan dua ujung."
+    },
+    {
+        "istilah": "ultramikroskop",
+        "arti": "alat pembesar penglihatan yang memiliki kemampuan mikroskop cahaya biasa."
+    },
+    {
+        "istilah": "uracil",
+        "arti": "basa organik dalam RNA yang menggantikan timin dalam DNA yang bersangkutan"
+    },
+    {
+        "istilah": "uremia",
+        "arti": "kadaran toksik yang disebabkan gagal ginjal. Hal ini terjadi bila fungsi ginjal tidak dapat membuang urea keluar dari tubuh sehingga urea menumpuk dalam darah."
+    },
+    {
+        "istilah": "uretritis",
+        "arti": "peradangan atau infeksi uretra, saluran yang mengangkut urin dari kandung kemih keluar dari tubuh."
+    },
+    {
+        "istilah": "vagina",
+        "arti": "vagina adalah bagian tubuh perempuan yang meng- hubungkan rahim (uterus) dan leher rahim keluar tubuh, atau tabung berotot yang dilapisi selaput lendir."
+    },
+    {
+        "istilah": "vaginismus",
+        "arti": "vaginismus adalah gangguan seksual yang ditandai oleh pengetatan otot-otot sepertiga bagian luar vagina yang sering kali menyakitkan"
+    },
+    {
+        "istilah": "vaginitis",
+        "arti": "vaginitis adalah peradangan vagina. gejala yang menyertai adalah keputihan (leukorea) dan bau amis."
+    },
+    {
+        "istilah": "vaginitis atrofik",
+        "arti": "vaginitis atrofik adalah bentuk vaginitis tidak menular yang biasanya disebabkan oleh penurunan karena menopause, operasi pengangkatan induk telur , terapi radiasi, atau bahkan setelah melahirkan- terauma pada wanita menyusui."
+    },
+    {
+        "istilah": "vaginosis bakteri",
+        "arti": "vaginosis bakteri (bakterial vaginosis/bv) adalah kondisi pada wanita dimana keseimbngan normal bakteri di vagina terganggu dan digantikan oleh pertumbuhan berlebih bakteri tertentu."
+    },
+    {
+        "istilah": "vaksin",
+        "arti": "vaksin adalah sebuah produk yang menghasilkan kekebalan sehingga melindungi tubuh dari penyakit. vaksin diberikan melalui suntikan jarum, melalui mulut dan aerosol."
+    },
+    {
+        "istilah": "valgus",
+        "arti": "valgus adalah deformitas yang menyebabkan tulang membengkok menjauhi garis tengah tubuh, seperti talipes valgus."
+    },
+    {
+        "istilah": "validitas",
+        "arti": "validitas atau kebasahan adalah apakah tes atau teknik benar-benar mengukur apa yang dimaksudkan untuk diukur atau biasa disebut dengan akurasi pengukuran."
+    },
+    {
+        "istilah": "validitas eksternal",
+        "arti": "validitas eksternal adalah sejauh mana studi penelitian klinis berlaku untuk populasi yang lebih luas."
+    },
+    {
+        "istilah": "validitas internal",
+        "arti": "validitas internal adalah sejauh mana hasil studi penelitian klinis tidak bias."
+    },
+    {
+        "istilah": "wabah",
+        "arti": "wabah seringkali identik dengan epidemi"
+    },
+    {
+        "istilah": "warfarin",
+        "arti": "warfarin adalah obat anti kogulan yang awalnya di kem- bangkan untuk mengobati tromboembolisme ddemgan cara menghalangi metabolisme hati terhadap vitamin k sehingga menurunkan produksi faktor koagulasi"
+    },
+    {
+        "istilah": "wellferon",
+        "arti": "wellferon adalah nama merek lymphoblastoid interfer- on-alfan-n1, diproduksi oleh glaxosmithkline, bolt western"
+    },
+    {
+        "istilah": "western bolt",
+        "arti": "adalah tes anti bodi yang digunakan untuk mengkonfirmasi tes elisa positif hiv."
+    },
+    {
+        "istilah": "whitening",
+        "arti": "(pemutihan gigi) adalah penggunaaan proksida untuk menghilangkan pigmen gigi. pemutihan gigi tidak merusak enamel"
+    },
+    {
+        "istilah": "wilayah perut",
+        "arti": "selain dibagi menurut kuadran, perut juga dapat di bagi menjadi area atau wilayah (region) yang jumlah ada 9 dengan pusar sebagai pusat atau patokan."
+    },
+    {
+        "istilah": "xanthoma",
+        "arti": "Xantoma adalah benjolan kulit kuning, lembut, dan se- dikit terangkat. Xenthoma terbuat dari endapan kolestrol dan cukup umum pada klopak mata, biasanya di kedua sisi."
+    },
+    {
+        "istilah": "xentokromia",
+        "arti": "Xentokromia adalah perubahan warna kekuningan , biasanya berhubungan dengan cairantulang belakang."
+    },
+    {
+        "istilah": "xenograft",
+        "arti": "Xenograft dan xenotransplantasi adalah tranplantasi sel antara spesies."
+    },
+    {
+        "istilah": "xeroderma",
+        "arti": "Xeroderma adalah kulit abnormal kering."
+    },
+    {
+        "istilah": "xeroderma pigmentosum",
+        "arti": "Xeroderma pigmentosum adalah sebuah penyakit ge- netic yang di tandai dengan sensitivitas yang luar biasa seperti sinar matahari"
+    },
+    {
+        "istilah": "xerofatalia",
+        "arti": "Xerofatalia adalah penyakit mata kering karena kekuran- gan vitamin a"
+    },
+    {
+        "istilah": "xerograft",
+        "arti": "Xerograft (Xenotranplant) adalah transplantasi organ atau jaringan dari spesies yang berbeda"
+    },
+    {
+        "istilah": "xerosis",
+        "arti": "Xerosis adalah istilah untuk kulit kering .kita semua memiliki lapisan minyak alami di kulit kita yang di hasil- kan oleh kelenjar minyak kulit"
+    },
+    {
+        "istilah": "xerostomia",
+        "arti": "Xerostomia adalah mulut kering yang disebabkan oleh berkurang atau tidak adanya air liur ."
+    },
+    {
+        "istilah": "yoghurt",
+        "arti": "susu asam"
+    },
+    {
+        "istilah": "zaitun",
+        "arti": "zaitun bermanfaat untuk kesehatan"
+    }
+]
