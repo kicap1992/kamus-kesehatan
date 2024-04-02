@@ -42,7 +42,7 @@ class SplashScreenView extends StatelessWidget {
                       height: 10,
                     ),
                     Text(
-                      'KAMUS MEDIS DAN KESEHATAN',
+                      'KAMUS ISTILAH KESEHATAN',
                       style: boldTextStyle.copyWith(
                         // color: backgroundColor,
                         fontSize: 20,
@@ -66,7 +66,7 @@ class SplashScreenView extends StatelessWidget {
                       textAlign: TextAlign.center,
                     ),
                     Text(
-                      'Kicap Karan',
+                      'Rahmat Hidayat Syam',
                       style: boldTextStyle.copyWith(
                         fontSize: 13,
                         fontStyle: FontStyle.italic,
@@ -74,7 +74,7 @@ class SplashScreenView extends StatelessWidget {
                       textAlign: TextAlign.center,
                     ),
                     Text(
-                      'www.kicap-karan.com',
+                      '217280019',
                       style: boldTextStyle.copyWith(
                         fontSize: 13,
                       ),

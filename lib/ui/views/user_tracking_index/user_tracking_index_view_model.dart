@@ -21,9 +21,9 @@ class UserTrackingIndexViewModel extends IndexTrackingViewModel {
       'header': 'List Kamus',
     },
     {
-      'name': 'Profil Developer',
-      'icon': Icons.person_outline_outlined,
-      'header': 'Profil Developer',
+      'name': 'Bookmark Kamus',
+      'icon': Icons.bookmark_border_outlined,
+      'header': 'Bookmark Kamus',
     },
   ];
 
