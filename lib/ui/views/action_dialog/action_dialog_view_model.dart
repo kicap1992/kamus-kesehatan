@@ -2,15 +2,15 @@ import '../../../app/app.dialogs.dart';
 import '../../../app/app.locator.dart';
 import '../../../app/app.logger.dart';
 import '../../../app/core/custom_base_view_model.dart';
-import '../../../model/istilah_model.dart';
+import '../../../model/istilah_model1.dart';
 import '../../../services/my_storage.dart';
 
 class ActionDialogViewModel extends CustomBaseViewModel {
   final log = getLogger('ActionDialogViewModel');
   final myStorage = locator<MyStorage>();
-  IstilahModel? data;
+  IstilahModel1? data;
 
-  Future<void> init(IstilahModel? data) async {
+  Future<void> init(IstilahModel1? data) async {
     // log.i('init');
     // log.i(data!.istilah.toString());
     // log.i(data.arti.toString());
@@ -18,7 +18,7 @@ class ActionDialogViewModel extends CustomBaseViewModel {
     // await myStorage.clear();
   }
 
-  addBookmark(IstilahModel istilahModel) async {
+  addBookmark(IstilahModel1 istilahModel) async {
     List<dynamic>? listBookmark;
 
     listBookmark = await myStorage.read('listBookmark');

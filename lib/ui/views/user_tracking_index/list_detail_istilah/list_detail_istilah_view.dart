@@ -1,28 +1,36 @@
 import 'package:flutter/material.dart';
-import 'package:kamus_kesehatan/app/themes/app_text.dart';
-import 'package:kamus_kesehatan/ui/widgets/my_textformfield.dart';
 import 'package:stacked/stacked.dart';
 
-import './list_kamus_kesehatan_view_model.dart';
+import '../../../../app/themes/app_colors.dart';
+import '../../../../app/themes/app_text.dart';
+import '../../../widgets/my_textformfield.dart';
+import './list_detail_istilah_view_model.dart';
 
-class ListKamusKesehatanView extends StatelessWidget {
-  const ListKamusKesehatanView({super.key});
+class ListDetailIstilahView extends StatelessWidget {
+  const ListDetailIstilahView({super.key, required this.kategori});
+
+  final String kategori;
 
   @override
   Widget build(BuildContext context) {
-    return ViewModelBuilder<ListKamusKesehatanViewModel>.reactive(
-      viewModelBuilder: () => ListKamusKesehatanViewModel(),
-      onViewModelReady: (ListKamusKesehatanViewModel model) async {
-        await model.init();
+    return ViewModelBuilder<ListDetailIstilahViewModel>.reactive(
+      viewModelBuilder: () => ListDetailIstilahViewModel(),
+      onViewModelReady: (ListDetailIstilahViewModel model) async {
+        await model.init(kategori);
       },
       builder: (
         BuildContext context,
-        ListKamusKesehatanViewModel model,
+        ListDetailIstilahViewModel model,
         Widget? child,
       ) {
-        return WillPopScope(
-          onWillPop: () async => false,
-          child: Padding(
+        return Scaffold(
+          appBar: AppBar(
+            backgroundColor: mainColor,
+            title: Text(
+              'List ${model.myFunction.capitalize(kategori)}',
+            ),
+          ),
+          body: Padding(
             padding: const EdgeInsets.all(25),
             child: Column(
               children: [

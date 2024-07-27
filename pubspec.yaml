@@ -82,6 +82,7 @@ flutter:
   assets:
     - assets/logo.png
     - assets/dataset.json
+    - assets/dataset1.json
 
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg

@@ -25,66 +25,69 @@ class UserTrackingIndexView extends StatelessWidget {
         Widget? child,
       ) {
         return SafeArea(
-          child: Scaffold(
-            appBar: AppBar(
-              backgroundColor: mainColor,
-              title: Text(
-                model.header,
-                style: const TextStyle(
-                  color: fontColor,
-                  fontSize: 20,
-                ),
-              ),
-              elevation: 0,
-              automaticallyImplyLeading: false,
-              actions: [
-                IconButton(
-                  onPressed: () {
-                    model.exitApp();
-                  },
-                  icon: const Icon(Icons.logout, color: fontColor),
-                ),
-              ],
-            ),
-            extendBody: false,
-            body: ExtendedNavigator(
-              router: UserTrackingIndexViewRouter(),
-              navigatorKey: StackedService.nestedNavigationKey(2),
-              initialRoute: UserTrackingIndexViewRoutes.listKamusKesehatanView,
-            ),
-            bottomNavigationBar: StylishBottomBar(
-              items: [
-                for (var item in model.bottomNavBarList)
-                  BottomBarItem(
-                    icon: Icon(item['icon'],
-                        color: model.currentIndex ==
-                                model.bottomNavBarList.indexOf(item)
-                            ? mainColor
-                            : fontColor),
-                    title: Text(
-                      item['name'],
-                      style: regularTextStyle.copyWith(
-                        color: model.currentIndex ==
-                                model.bottomNavBarList.indexOf(item)
-                            ? mainColor
-                            : fontColor,
-                      ),
-                      // textAlign: TextAlign.l,
-                    ),
-                    backgroundColor: model.currentIndex ==
-                            model.bottomNavBarList.indexOf(item)
-                        ? fontColor
-                        : fontColor,
+          child: WillPopScope(
+            onWillPop: () async => false,
+            child: Scaffold(
+              appBar: AppBar(
+                backgroundColor: mainColor,
+                title: Text(
+                  model.header,
+                  style: const TextStyle(
+                    color: fontColor,
+                    fontSize: 20,
                   ),
-              ],
-              currentIndex: model.currentIndex,
-              option: BubbleBarOptions(),
-              hasNotch: true,
-              backgroundColor: mainColor,
-              onTap: (value) {
-                model.handleNavigation(value);
-              },
-              // fabLocation: StylishBarFabLocation.center,
+                ),
+                elevation: 0,
+                automaticallyImplyLeading: false,
+                actions: [
+                  IconButton(
+                    onPressed: () {
+                      model.exitApp();
+                    },
+                    icon: const Icon(Icons.logout, color: fontColor),
+                  ),
+                ],
+              ),
+              extendBody: false,
+              body: ExtendedNavigator(
+                router: UserTrackingIndexViewRouter(),
+                navigatorKey: StackedService.nestedNavigationKey(2),
+                initialRoute: UserTrackingIndexViewRoutes.halamanUtamaView,
+              ),
+              bottomNavigationBar: StylishBottomBar(
+                items: [
+                  for (var item in model.bottomNavBarList)
+                    BottomBarItem(
+                      icon: Icon(item['icon'],
+                          color: model.currentIndex ==
+                                  model.bottomNavBarList.indexOf(item)
+                              ? mainColor
+                              : fontColor),
+                      title: Text(
+                        item['name'],
+                        style: regularTextStyle.copyWith(
+                          color: model.currentIndex ==
+                                  model.bottomNavBarList.indexOf(item)
+                              ? mainColor
+                              : fontColor,
+                        ),
+                        // textAlign: TextAlign.l,
+                      ),
+                      backgroundColor: model.currentIndex ==
+                              model.bottomNavBarList.indexOf(item)
+                          ? fontColor
+                          : fontColor,
+                    ),
+                ],
+                currentIndex: model.currentIndex,
+                option: BubbleBarOptions(),
+                hasNotch: true,
+                backgroundColor: mainColor,
+                onTap: (value) {
+                  model.handleNavigation(value);
+                },
+                // fabLocation: StylishBarFabLocation.center,
+              ),
             ),
           ),
         );

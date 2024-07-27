@@ -1,5 +1,6 @@
 import 'package:kamus_kesehatan/model/istilah_model.dart';
 
+import '../../../../app/app.dialogs.dart';
 import '../../../../app/app.locator.dart';
 import '../../../../app/app.logger.dart';
 import '../../../../app/core/custom_base_view_model.dart';
@@ -40,5 +41,24 @@ class ProfilUserViewModel extends CustomBaseViewModel {
     Future.delayed(const Duration(seconds: 2), () {
       myTts.speak(listIstilah.arti!);
     });
+  }
+
+  deleteBookmark(IstilahModel listIstilah) async {
+    List<dynamic> listBookmark = await myStorage.read('listBookmark');
+    log.i('ini listBookmark $listBookmark');
+    listBookmark.removeWhere(
+      (element) => element['istilah'] == listIstilah.istilah,
+    );
+    log.i('ini listBookmark $listBookmark');
+    await myStorage.write('listBookmark', listBookmark);
+    await init();
+    notifyListeners();
+  }
+
+  openWhatsapp(IstilahModel data) async {
+    await dialogService.showCustomDialog(
+      variant: DialogType.nomorTelponDialogView,
+      data: data,
+    );
   }
 }

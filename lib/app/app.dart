@@ -1,3 +1,4 @@
+import 'package:kamus_kesehatan/ui/views/user_tracking_index/list_detail_istilah/list_detail_istilah_view.dart';
 import 'package:stacked_services/stacked_services.dart';
 import 'package:stacked/stacked_annotations.dart';
 
@@ -9,7 +10,8 @@ import '../services/other_function.dart';
 import '../ui/views/action_dialog/action_dialog_view.dart';
 import '../ui/views/nomor_telpon_dialog/nomor_telpon_dialog_view.dart';
 import '../ui/views/splash_screen/splash_screen_view.dart';
-import '../ui/views/user_tracking_index/list_kamus_kesehatan/list_kamus_kesehatan_view.dart';
+import '../ui/views/user_tracking_index/halaman_utama/halaman_utama_view.dart';
+// import '../ui/views/user_tracking_index/list_kamus_kesehatan/list_kamus_kesehatan_view.dart';
 import '../ui/views/user_tracking_index/profil_user/profil_user_view.dart';
 import '../ui/views/user_tracking_index/user_tracking_index_view.dart';
 
@@ -19,11 +21,12 @@ import '../ui/views/user_tracking_index/user_tracking_index_view.dart';
     MaterialRoute(
       page: UserTrackingIndexView,
       children: [
-        MaterialRoute(page: ListKamusKesehatanView),
+        MaterialRoute(page: HalamanUtamaView),
         // MaterialRoute(page: TampilkanListView),
         MaterialRoute(page: ProfilUserView),
       ],
     ),
+    MaterialRoute(page: ListDetailIstilahView),
   ],
   dialogs: [
     StackedDialog(classType: ActionDialogView),

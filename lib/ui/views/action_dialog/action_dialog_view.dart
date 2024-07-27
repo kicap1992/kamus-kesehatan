@@ -1,19 +1,20 @@
 import 'package:flutter/material.dart';
-import 'package:kamus_kesehatan/model/istilah_model.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
 
+import '../../../model/istilah_model1.dart';
 import './action_dialog_view_model.dart';
 
 class ActionDialogView extends StatelessWidget {
-  final DialogRequest<IstilahModel> request;
+  final DialogRequest<IstilahModel1> request;
   final Function(DialogResponse) completer;
 
   const ActionDialogView({
     Key? key,
-    required this.request,
+    required DialogRequest request,
     required this.completer,
-  }) : super(key: key);
+  })  : request = request as DialogRequest<IstilahModel1>,
+        super(key: key);
 
   @override
   Widget build(BuildContext context) {

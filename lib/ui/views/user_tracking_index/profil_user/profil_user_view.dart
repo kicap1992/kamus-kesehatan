@@ -20,72 +20,82 @@ class ProfilUserView extends StatelessWidget {
         ProfilUserViewModel model,
         Widget? child,
       ) {
-        return Padding(
-          padding: const EdgeInsets.all(25),
-          child: Column(
-            children: [
-              // MyTextFormField(
-              //   hintText: 'Cari istilah',
-              //   labelText: 'Cari istilah',
-              //   controller: model.searchController,
-              //   suffixIcon: const Icon(Icons.search),
-              //   onChanged: (String value) {
-              //     model.searchIstilah();
-              //   },
-              // ),
-              // const SizedBox(
-              //   height: 20,
-              // ),
-              Expanded(
-                child: model.listIstilah == null
-                    ? const Center(
-                        child: CircularProgressIndicator(),
-                      )
-                    : model.listIstilah!.isEmpty
-                        ? const Center(
-                            child: Text('Belum ada bookmark'),
-                          )
-                        : ListView.builder(
-                            itemCount: model.listIstilah!.length,
-                            itemBuilder: (
-                              BuildContext context,
-                              int index,
-                            ) {
-                              return Card(
-                                child: ListTile(
-                                  onTap: () =>
-                                      model.cekSuara(model.listIstilah![index]),
-                                  title: Text(
-                                    model.listIstilah![index].istilah!
-                                        .toUpperCase(),
-                                    style: boldTextStyle,
+        return WillPopScope(
+          onWillPop: () async => false,
+          child: Padding(
+            padding: const EdgeInsets.all(25),
+            child: Column(
+              children: [
+                // MyTextFormField(
+                //   hintText: 'Cari istilah',
+                //   labelText: 'Cari istilah',
+                //   controller: model.searchController,
+                //   suffixIcon: const Icon(Icons.search),
+                //   onChanged: (String value) {
+                //     model.searchIstilah();
+                //   },
+                // ),
+                // const SizedBox(
+                //   height: 20,
+                // ),
+                Expanded(
+                  child: model.listIstilah == null
+                      ? const Center(
+                          child: CircularProgressIndicator(),
+                        )
+                      : model.listIstilah!.isEmpty
+                          ? const Center(
+                              child: Text('Belum ada bookmark'),
+                            )
+                          : ListView.builder(
+                              itemCount: model.listIstilah!.length,
+                              itemBuilder: (
+                                BuildContext context,
+                                int index,
+                              ) {
+                                return Card(
+                                  child: ListTile(
+                                    onTap: () => model
+                                        .cekSuara(model.listIstilah![index]),
+                                    title: Text(
+                                      model.listIstilah![index].istilah!
+                                          .toUpperCase(),
+                                      style: boldTextStyle,
+                                    ),
+                                    subtitle:
+                                        Text(model.listIstilah![index].arti!),
+                                    trailing: Row(
+                                      mainAxisSize: MainAxisSize.min,
+                                      children: [
+                                        GestureDetector(
+                                          onTap: () {
+                                            // model.cekSuara(model.listIstilah[index]);
+                                            model.openWhatsapp(
+                                              model.listIstilah![index],
+                                            );
+                                          },
+                                          child: const Icon(Icons.phone),
+                                        ),
+                                        IconButton(
+                                          onPressed: () {
+                                            // model.bukaDialogAksi(
+                                            //     model.listIstilah[index]);
+                                            model.deleteBookmark(
+                                              model.listIstilah![index],
+                                            );
+                                          },
+                                          icon:
+                                              const Icon(Icons.delete_forever),
+                                        ),
+                                      ],
+                                    ),
                                   ),
-                                  subtitle:
-                                      Text(model.listIstilah![index].arti!),
-                                  trailing: Row(
-                                    mainAxisSize: MainAxisSize.min,
-                                    children: [
-                                      GestureDetector(
-                                        onTap: () {
-                                          // model.cekSuara(model.listIstilah[index]);
-                                        },
-                                        child: const Icon(Icons.phone),
-                                      ),
-                                      IconButton(
-                                        onPressed: () {
-                                          // model.bukaDialogAksi(
-                                          //     model.listIstilah[index]);
-                                        },
-                                        icon: const Icon(Icons.delete_forever),
-                                      ),
-                                    ],
-                                  ),
-                                ),
-                              );
-                            },
-                          ),
-              ),
-            ],
+                                );
+                              },
+                            ),
+                ),
+              ],
+            ),
           ),
         );
         // return const Scaffold(

@@ -32,7 +32,8 @@ class UserTrackingIndexViewModel extends IndexTrackingViewModel {
 
   final List<String> _views = [
     // UserTrackingIndexViewRoutes.tampilkanListView,
-    UserTrackingIndexViewRoutes.listKamusKesehatanView,
+    // UserTrackingIndexViewRoutes.listKamusKesehatanView,
+    UserTrackingIndexViewRoutes.halamanUtamaView,
     UserTrackingIndexViewRoutes.profilUserView,
   ];
 
